@@ -93,6 +93,7 @@ const Acordeon = () => {
 					</div>
 				</div>
 			</div>
+			<br></br>
 		</div>
 	);
 };
