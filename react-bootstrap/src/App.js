@@ -4,16 +4,16 @@ import Hero from "./componentes/hero";
 
 function App() {
 	return (
-		<div className="App">
-			<div className="container">
-				<div className="row">
-					<div className="col">
-						<h1 className="visually-hidden">Heroes examples</h1>
+		<div class="App">
+			<div class="container">
+				<div class="row">
+					<div class="col">
+						<h1 class="visually-hidden">Heroes examples</h1>
 						<Hero />
 					</div>
 				</div>
-				<div className="row">
-					<div className="col">
+				<div class="row">
+					<div class="col">
 						<Acordeon />
 					</div>
 				</div>
